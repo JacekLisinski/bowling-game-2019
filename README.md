@@ -1,6 +1,6 @@
 # Zadanie dla chętnych - bowling game
 
-## Deadline: 2019-03-07 23:59
+## Deadline: 2019-04-07 23:59
 
 Napisz klasę `Game`, która implementuje interfejs `IGame` i potrafi wyliczyć wynik gry w kręgle.
 Reguły gry w kręgle: https://en.wikipedia.org/wiki/Ten-pin_bowling#Rules_of_play
